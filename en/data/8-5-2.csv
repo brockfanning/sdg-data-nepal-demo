@@ -1,10 +1,10 @@
-Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2018,Unemployment rate [8.5.2],,Male,Percent,10.3
-2018,Unemployment rate [8.5.2],,Female,Percent,13.1
-2018,Unemployment rate [8.5.2],Province 1,,Percent,10.2
-2018,Unemployment rate [8.5.2],Madhesh,,Percent,20.1
-2018,Unemployment rate [8.5.2],Bagmati,,Percent,7.0
-2018,Unemployment rate [8.5.2],Gandaki,,Percent,9.0
-2018,Unemployment rate [8.5.2],Lumbini,,Percent,11.2
-2018,Unemployment rate [8.5.2],Karnali,,Percent,9.7
-2018,Unemployment rate [8.5.2],Sudurpashchim,,Percent,11.5
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2018,Unemployment rate [8.5.2],,Male,Percent,,10.3
+2018,Unemployment rate [8.5.2],,Female,Percent,,13.1
+2018,Unemployment rate [8.5.2],Province 1,,Percent,NP1,10.2
+2018,Unemployment rate [8.5.2],Madhesh,,Percent,NP2,20.1
+2018,Unemployment rate [8.5.2],Bagmati,,Percent,NP3,7.0
+2018,Unemployment rate [8.5.2],Gandaki,,Percent,NP4,9.0
+2018,Unemployment rate [8.5.2],Lumbini,,Percent,NP5,11.2
+2018,Unemployment rate [8.5.2],Karnali,,Percent,NP6,9.7
+2018,Unemployment rate [8.5.2],Sudurpashchim,,Percent,NP7,11.5

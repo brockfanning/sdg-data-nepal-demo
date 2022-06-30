@@ -116,6 +116,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -167,6 +172,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -216,6 +226,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -430,6 +445,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -606,6 +626,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -690,6 +715,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -839,6 +869,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -938,6 +973,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1011,6 +1051,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1295,6 +1340,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1605,6 +1655,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -1702,6 +1757,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1890,6 +1950,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -2284,6 +2349,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2472,6 +2542,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -2636,6 +2711,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2750,6 +2830,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -2950,6 +3035,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -3291,6 +3381,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3435,6 +3530,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -3630,6 +3730,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -3995,6 +4100,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4070,6 +4180,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4136,6 +4251,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4228,6 +4348,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4449,6 +4574,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4498,6 +4628,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4561,6 +4696,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4865,6 +5005,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4955,6 +5100,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -5145,6 +5295,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5242,6 +5397,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -5427,6 +5587,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5493,6 +5658,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -5587,6 +5757,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5660,6 +5835,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -5874,6 +6054,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5916,6 +6101,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -5980,6 +6170,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -6072,6 +6267,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -6238,6 +6438,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6354,6 +6559,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6451,6 +6661,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -6641,6 +6856,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6764,6 +6984,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -6836,6 +7061,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -6930,6 +7160,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7003,6 +7238,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -7145,6 +7385,11 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -7218,6 +7463,11 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
